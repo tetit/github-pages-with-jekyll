@@ -1,7 +1,8 @@
-
-theme: minima
+---
 title: "Welcome to my blog"
 date: 2020-04-07
+---
+theme: minima
 author: Teti
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
